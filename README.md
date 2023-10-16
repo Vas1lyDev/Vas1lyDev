@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.codewars.com/users/IIAXOM/badges/large">
+</p>
+
+
 Здорова, народ!
 ---
 Меня зовут Василий, занимаюсь разработкой. Репозитории создаю чисто чтобы не потерять свои пет-проектики
@@ -23,7 +28,7 @@
 | Работа|   Да       |
 | Питон |   Нет      |
 
-![Мой ранг в кодВорс](https://www.codewars.com/users/IIAXOM/badges/large)
+
 <!---
 Vas1lyDev/Vas1lyDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
